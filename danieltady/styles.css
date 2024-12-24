@@ -72,12 +72,37 @@ body {
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 
+.work-with-us {
+    padding: 2rem;
+    text-align: center;
+    color: rgb(255, 239, 239);
+    text-decoration: none;
+    background: salmon;
+    margin: 1rem;
+    border-radius: 8px;
+    box-shadow: 10px 14px 8px black;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+
+
+.work-with-us a {
+    padding: 2rem;
+    text-align: center;
+    color: rgb(255, 239, 239);
+    text-decoration: none;
+    background: salmon;
+    margin: 1rem;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
 .btn {
     display: inline-block;
     margin-top: 1rem;
     padding: 0.5rem 1.5rem;
-    background: #007bff;
-    color: #fff;
+    background: #6e8193;
+    color: #504242;
     text-decoration: none;
     border-radius: 15px;
 }
